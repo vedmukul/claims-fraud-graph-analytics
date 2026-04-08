@@ -147,6 +147,6 @@ Provides an intuitive UI for fraud investigators, mimicking real-world productio
 
 ## 📬 Contact & Links
 
-- **Author:** [Your Name / LinkedIn](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+- **Author:** [Mukul Ved / LinkedIn](https://github.com/vedmukul)
+
 - **License:** MIT
