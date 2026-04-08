@@ -1,0 +1,39 @@
+# Data (generated, large)
+data/*.parquet
+data/*.pkl
+data/*.gpickle
+
+# Models (trained artifacts)
+models/*.pkl
+models/*.npy
+models/*.csv
+models/*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+pipeline.log
